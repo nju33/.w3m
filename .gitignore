@@ -1,0 +1,9 @@
+*
+!/bookmark.html
+!/package.json
+!/vercel.json
+!/yarn.lock
+!/README.md
+!/.gitignore
+
+.vercel
